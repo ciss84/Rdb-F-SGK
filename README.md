@@ -2,4 +2,4 @@
 
 # Rdb test
 
-https://ciss84.github.io/Rdb-FSGK/
+https://ciss84.github.io/Rdb-F-SGK/
